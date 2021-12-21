@@ -4,3 +4,4 @@ Lets get understand what is meant by webhook ,
 -When one of those events is triggered, we'll send a HTTP POST payload to the webhook's configured URL. 
 -Webhooks can be installed on an organization, a specific repository, or a GitHub App. Once installed, the webhook will be sent each time one or more   subscribed events occurs.
 -Can create up to 20 webhooks for each event on each installation target (specific organization or specific repository).
+jenkins webhook
